@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanav1999
-- 👀 I’m interested in developing your ideas in reality by creating softwares 
-- 🌱 I’m currently learning  ReactJs and techanical engineers by profession
+- 👀 I’m interested in developing your ideas in reality by creating softwares, websites and Applications 
+- 🌱 I’m currently learning  ReactJs, Data Structures and Algorithms and HTML5 and CSS3  and techanical engineers by profession
 - 💞️ I’m looking for software related jobs
 - Developer by passion and Tech Eng. by profession  with problem solving skills and the ability to perform well in team Passionate about coding and Looking forward for     SDE roles in product based companies.
 <!---
