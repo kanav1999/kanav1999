@@ -13,7 +13,7 @@ If you liked my work, follow me on GitHub and subscribe to my channel. Thanks fo
 
 My Knowledge base
 Domain Knowledge - Software Development, Distributed Systems, Microservices, Design Patterns
-Programming Languages - Java, Python, C++, Javascript
+Programming Languages -  C++, Javascript
 Tools - git, AWS, Linux, CDK
 Applications setup and operations in AWS Cloud
 <!---
